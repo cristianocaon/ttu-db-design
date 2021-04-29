@@ -15,6 +15,12 @@ The purpose was to create a Movie Review database using MySQL, where users can p
 | movie_people  | producers, directors, actors and writers           |
 | publisher     | companies that finance movies                      |
 
+## Setup
+
+The commands required to setup the database are in the ```table_creation.sql``` file, and the data for each respective table is under the ```Data``` directory.
+
+The file ```queries.sql``` has some of the queries performed during the project presentation to demonstrate the database relations, triggers and views.
+
 ## Contributors
 - Bryce Bond
 - Bipin Chhetr
