@@ -15,7 +15,7 @@ The purpose was to create a Movie Review database using MySQL, where users can p
 | movie_people  | producers, directors, actors and writers           |
 | publisher     | companies that finance movies                      |
 
-# Contributors
+## Contributors
 - Bryce Bond
 - Bipin Chhetr
 - Christopher Bednarz
