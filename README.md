@@ -4,6 +4,8 @@ Project assignment for class CS 4354 (Concepts of Database Systems) with Dr. Abd
 
 The purpose of this project was to create a Movie Review database using MySQL, where users can provide reviews (score and comments) about certain movies, which have information about their production that consists of the producers, directors, actors, writers and the publisher company financing the movie.
 
+The designs created for the initial implementation of the database are in the ```Diagrams``` folder, and the presentation of the project is in the ```Presentation``` folder.
+
 ## Setup
 
 The commands required to setup the database are in the ```table_creation.sql``` file, and the data for each respective table is under the ```Data``` directory.
