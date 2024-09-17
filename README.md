@@ -23,10 +23,3 @@ The file ```queries.sql``` has some of the queries performed during the project 
 | movie_people       | variety of people that participate in movies       |
 | production_people  | connects production with people and their roles    |
 | publisher          | companies that finance movies                      |
-
-## Contributors
-- Bryce Bond
-- Bipin Chhetr
-- Christopher Bednarz
-- Cristiano Caon
-- Michael Contreras
